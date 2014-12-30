@@ -4,7 +4,7 @@
 /*
 Package plivo is a client for the Plivo.com API. It is documented at:
 
-http://godoc.org/github.com/micrypt/go-plivo/plivo
+http://godoc.org/github.com/tempestsecurity/go-plivo/plivo
 
 A short example of retrieving account details:
 
